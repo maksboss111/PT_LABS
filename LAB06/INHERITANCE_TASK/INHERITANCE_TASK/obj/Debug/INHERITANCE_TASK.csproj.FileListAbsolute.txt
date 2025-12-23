@@ -1,0 +1,7 @@
+C:\Users\Maksos\source\repos\INHERITANCE_TASK\INHERITANCE_TASK\bin\Debug\INHERITANCE_TASK.exe.config
+C:\Users\Maksos\source\repos\INHERITANCE_TASK\INHERITANCE_TASK\bin\Debug\INHERITANCE_TASK.exe
+C:\Users\Maksos\source\repos\INHERITANCE_TASK\INHERITANCE_TASK\bin\Debug\INHERITANCE_TASK.pdb
+C:\Users\Maksos\source\repos\INHERITANCE_TASK\INHERITANCE_TASK\obj\Debug\INHERITANCE_TASK.csproj.AssemblyReference.cache
+C:\Users\Maksos\source\repos\INHERITANCE_TASK\INHERITANCE_TASK\obj\Debug\INHERITANCE_TASK.csproj.CoreCompileInputs.cache
+C:\Users\Maksos\source\repos\INHERITANCE_TASK\INHERITANCE_TASK\obj\Debug\INHERITANCE_TASK.exe
+C:\Users\Maksos\source\repos\INHERITANCE_TASK\INHERITANCE_TASK\obj\Debug\INHERITANCE_TASK.pdb

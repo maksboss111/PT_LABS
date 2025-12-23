@@ -1,0 +1,14 @@
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.exe
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.deps.json
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.runtimeconfig.json
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.dll
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.pdb
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.AssemblyInfoInputs.cache
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.AssemblyInfo.cs
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.csproj.CoreCompileInputs.cache
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.dll
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\refint\OOP_SAMPLE.dll
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.pdb
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.genruntimeconfig.cache
+D:\REPOS\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\ref\OOP_SAMPLE.dll

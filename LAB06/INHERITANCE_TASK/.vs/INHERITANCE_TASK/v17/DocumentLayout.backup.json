@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09F895-6D99-41EE-AB87-430076E3E4D9}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|c:\\users\\maksos\\source\\repos\\inheritance_task\\inheritance_task\\progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C09F895-6D99-41EE-AB87-430076E3E4D9}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09F895-6D99-41EE-AB87-430076E3E4D9}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|c:\\users\\maksos\\source\\repos\\inheritance_task\\inheritance_task\\arithmeticprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C09F895-6D99-41EE-AB87-430076E3E4D9}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\arithmeticprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09F895-6D99-41EE-AB87-430076E3E4D9}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|c:\\users\\maksos\\source\\repos\\inheritance_task\\inheritance_task\\geometricprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C09F895-6D99-41EE-AB87-430076E3E4D9}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\geometricprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09F895-6D99-41EE-AB87-430076E3E4D9}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\inheritance_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C09F895-6D99-41EE-AB87-430076E3E4D9}|INHERITANCE_TASK\\INHERITANCE_TASK.csproj|solutionrelative:inheritance_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeometricProgression.cs",
+              "DocumentMoniker": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\INHERITANCE_TASK\\GeometricProgression.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\GeometricProgression.cs",
+              "ToolTip": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\INHERITANCE_TASK\\GeometricProgression.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\GeometricProgression.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:15:56.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArithmeticProgression.cs",
+              "DocumentMoniker": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\INHERITANCE_TASK\\ArithmeticProgression.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\ArithmeticProgression.cs",
+              "ToolTip": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\INHERITANCE_TASK\\ArithmeticProgression.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\ArithmeticProgression.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:13:14.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Progression.cs",
+              "DocumentMoniker": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\INHERITANCE_TASK\\Progression.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\Progression.cs",
+              "ToolTip": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\INHERITANCE_TASK\\Progression.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\Progression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:23:23.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\INHERITANCE_TASK\\Program.cs",
+              "RelativeDocumentMoniker": "INHERITANCE_TASK\\Program.cs",
+              "ToolTip": "C:\\Users\\Maksos\\source\\repos\\INHERITANCE_TASK\\INHERITANCE_TASK\\Program.cs",
+              "RelativeToolTip": "INHERITANCE_TASK\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:21:42.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Maksos\source\repos\CS_Static\CS_Static\bin\Debug\CS_Static.exe.config
+C:\Users\Maksos\source\repos\CS_Static\CS_Static\bin\Debug\CS_Static.exe
+C:\Users\Maksos\source\repos\CS_Static\CS_Static\bin\Debug\CS_Static.pdb
+C:\Users\Maksos\source\repos\CS_Static\CS_Static\obj\Debug\CS_Static.csproj.AssemblyReference.cache
+C:\Users\Maksos\source\repos\CS_Static\CS_Static\obj\Debug\CS_Static.csproj.CoreCompileInputs.cache
+C:\Users\Maksos\source\repos\CS_Static\CS_Static\obj\Debug\CS_Static.exe
+C:\Users\Maksos\source\repos\CS_Static\CS_Static\obj\Debug\CS_Static.pdb
